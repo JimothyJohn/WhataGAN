@@ -1,3 +1,5 @@
+<img src="https://github.com/JimothyJohn/WhataGAN/raw/master/docs/whatagan.png" width="50%">
+
 # WhataGAN
 
 Generate new Whataburger store concepts the likes of which have never been seen!
@@ -50,4 +52,5 @@ Metadata will be stored in JSON format with the following schema:
 
 ## To-do
 
-Incorporate MongoDB
+- Incorporate MongoDB for persistent metadata storage
+- Add Streamlit UI for easy metadata manipulation
