@@ -1,4 +1,7 @@
-<img src="https://github.com/JimothyJohn/WhataGAN/raw/master/docs/whatagan.png" width="50%">
+<img src="https://github.com/JimothyJohn/WhataGAN/raw/master/docs/whatagan.png" width="25%">
+<img src="https://github.com/JimothyJohn/WhataGAN/raw/master/docs/whatagan.png" width="25%">
+<img src="https://github.com/JimothyJohn/WhataGAN/raw/master/docs/whatagan.png" width="25%">
+<img src="https://github.com/JimothyJohn/WhataGAN/raw/master/docs/whatagan.png" width="25%">
 
 # WhataGAN
 

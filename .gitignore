@@ -153,3 +153,4 @@ cython_debug/
 
 # My stuff
 stores/
+.DS_Store
