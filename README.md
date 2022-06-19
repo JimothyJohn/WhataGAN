@@ -23,7 +23,7 @@ python whatagan
 
 Metadata will be stored in JSON format with the following schema:
 
-```json
+```js
 {
     // 
     "location": "Whataburger+2424+Baldwin+Blvd,Corpus-Christi,TX",
